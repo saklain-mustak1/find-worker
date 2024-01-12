@@ -1,4 +1,4 @@
-# Saklain Mustak
+# Connect worker
 ## Code Store 
 ### About me
 >*Name:* **Saklain Mustak** 
@@ -12,6 +12,7 @@
 >- [Linkedin](https://www.linkedin.com/in/saklain-mustak1/)  
 >- [facebook](https://www.facebook.com/saklain.mustak2)
  ## Discription 
+ in this project worker from different profession can connect by the user and give their service . example: carpenter, plumber,electrician etc.
 - Read this [file]() for more information
 
 #

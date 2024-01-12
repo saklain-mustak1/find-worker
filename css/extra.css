@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#navbar {
+    margin-top: 5px;
+    position: fixed;
+    background-color: blue;
+    height: auto;
+    width: 220px;
+    left: -221px;
+}
+
+#navbar li {
+    color: white;
+    font-size: 20px;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 1px solid gray;
+}
+
+.toggle-btn {
+    position: absolute;
+    left: 100%;
+    top: 15px;
+}
+
+.toggle-btn span {
+    display: block;
+    background-color: black;
+    width: 30px;
+    height: 5px;
+    margin: 3px;
+}
+
+#navbar.active {
+    left: 0;
+}
+
+.wphoto {
+    margin-top: 25px;
+}
+
+.wrecord {
+    border: solid thin;
+    background-color: darkcyan;
+    height: 130px;
+    margin-left: 152px;
+    padding-left: 15px;
+}
+
+.profilephoto {
+    width: 150px;
+    height: 125px;
+    float: left;
+    background-color: white;
+}
+
+.photow {
+    margin: 2px;
+    width: 150px;
+    height: 125px;
+    border: solid thin;
+    align-items: center;
+    background-image: url("add-user.png");
+    background-size: cover;
+}
+
+.cmnttobtn {
+    position: absolute;
+    margin-left: 50%;
+}

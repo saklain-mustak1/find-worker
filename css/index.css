@@ -1,0 +1,178 @@
+html {
+    height: 100%;
+}
+
+textarea {
+    resize: none;
+}
+
+.logobar {
+    width: auto;
+    height: 15%;
+    margin: 0px auto;
+    background-color: palegreen;
+    border: solid thin
+}
+
+.logos {
+    width: 150px;
+    height: 125px;
+    float: left;
+    background-color: white;
+}
+
+.logo {
+    margin: 2px;
+    width: 150px;
+    height: 125px;
+    border: solid thin;
+    align-items: center;
+}
+
+.hero {
+    height: 85%;
+    width: 100%;
+    background-image: url(bgimg.jpg);
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+}
+
+.form {
+    width: fit-content;
+    height: fit;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    background: linear-gradient(to right, green, yellow);
+    margin: 2% auto;
+    padding: 50px;
+}
+
+.btn {
+    width: 300;
+    font-size: 50px;
+    font-family: arial black;
+    text-shadow: 5px 5px dodgerblue;
+    size: 500px;
+}
+
+#sbtn {
+    margin: 5px;
+    position: relative;
+    font-family: arial black;
+    width: 200px;
+    padding: 10px;
+    margin-left: 20%;
+}
+
+.eye {
+    position: absolute;
+}
+
+.eyeon {
+    width: 30px;
+    height: 20px;
+}
+
+.eyeslash {
+    width: 30px;
+    height: 20px;
+}
+
+#hide1 {
+    display: none;
+}
+
+#hide3 {
+    display: none;
+}
+
+#hide5 {
+    display: none;
+}
+
+.gndr {
+    margin-left: 10%;
+}
+
+.passs {
+    position: absolute;
+    color: red;
+    font-size: small;
+}
+
+#show-result {
+    text-align: center;
+    position: relative;
+}
+
+.photou {
+    margin-left: 20%;
+    background-color: blue;
+    position: relative;
+    background-image: url(add-user.png);
+    background-position: center;
+    background-size: 150px 125px;
+    background-repeat: no-repeat;
+    text-align: center;
+    height: 110px;
+    width: 140px;
+    border: solid thin;
+}
+
+.nsbtn {
+    margin: 5px;
+    position: relative;
+    font-family: arial black;
+    width: 150px;
+    margin-left: 20%;
+}
+
+.ssbtn {
+    margin: 5px;
+    position: relative;
+    font-family: arial black;
+    width: 150px;
+}
+
+.signup2ndpage {
+    position: relative;
+}
+
+#profileph2 {
+    width: 150px;
+    height: 125px;
+}
+
+.inbar {
+    width: auto;
+    height: 126px;
+    border: solid thin;
+}
+
+.footer {
+    background-position: bottom;
+    position: relative;
+    padding-left: 85%;
+    padding-top: 100px;
+}
+
+.wdetails {
+    background: linear-gradient(to right, skyblue, yellow, pink, red);
+}
+
+.wcmntbtn {
+    margin-left: 60%;
+    padding: 10px;
+}
+
+.editphoto {
+    margin: 2px;
+    position: absolute;
+    margin-left: 45%;
+    width: 150px;
+    height: 125px;
+    border: solid thin;
+    align-items: center;
+}

@@ -1,0 +1,66 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    margin: 15px;
+}
+
+form {
+    background-color: yellow;
+    position: relative;
+    width: 100%;
+    display: block;
+}
+
+#cmnt_btn {
+    color: white;
+    background-color: blue;
+    padding: 5px;
+}
+
+textarea {
+    padding: 2px;
+    position: relative;
+    width: 70%;
+    resize: none;
+}
+
+.people_cmnt {
+    border: solid thin;
+    background-color: darkseagreen;
+    padding: 2px;
+    margin: 3px;
+    height: auto;
+}
+
+.cmnt_photos {
+    padding: 1px;
+    margin: 1px;
+}
+
+.cmnt_photo {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    background-color: white;
+    padding: 1px;
+    margin: 1px;
+}
+
+.cmnt_name {
+    color: blue;
+    position: absolute;
+    margin-left: 47px;
+}
+
+.cmnt_post {
+    margin-left: 70px;
+    margin-top: 22px;
+    position: relative;
+}
